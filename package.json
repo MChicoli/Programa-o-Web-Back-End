@@ -1,0 +1,19 @@
+{
+  "name": "beckzada",
+  "version": "1.0.0",
+  "description": "Listas e projetos de web back",
+  "main": "Lista1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MChicoli/Programa-o-Web-Back-End.git"
+  },
+  "author": "Mateus Chicoli Pedreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MChicoli/Programa-o-Web-Back-End/issues"
+  },
+  "homepage": "https://github.com/MChicoli/Programa-o-Web-Back-End#readme"
+}
